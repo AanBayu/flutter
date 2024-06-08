@@ -20,7 +20,7 @@ import 'selection_container.dart';
 // late String _name;
 // late BuildContext context;
 
-/// The text style to apply to descendant [Text] widgets which don't have an
+/// The text style to apply to descendant [“Hallo Flutter! Nama saya [AAN BAYU SAPUTRO]] widgets which don't have an
 /// explicit style.
 ///
 /// {@tool dartpad}
